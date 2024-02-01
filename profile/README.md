@@ -1,4 +1,4 @@
-![Mento](../img/Mento-banner.png)
+![Mento](Mento-banner.png)
 
 Welcome to the [`Mento Protocol`](https://mento.org/) Github. Mento is a protocol that enables the creation and adoption of digital currencies worldwide, aiming to provide a stable asset for every country. With a goal of onboarding a billion Web3 users, Mento is creating a new, accessible future for digital currencies.
 
